@@ -1,0 +1,65 @@
+[
+    {
+        "model": "main.producttag",
+        "fields": {
+            "name": "horror",
+            "slug": "horror",
+            "description": "",
+            "active": true
+        }
+    },
+    {
+        "model": "main.producttag",
+        "fields": {
+            "name": "Romoance",
+            "slug": "romance",
+            "description": "",
+            "active": true
+        }
+    },
+    {
+        "model": "main.producttag",
+        "fields": {
+            "name": "Drama",
+            "slug": "drama",
+            "description": "",
+            "active": true
+        }
+    },
+    {
+        "model": "main.producttag",
+        "fields": {
+            "name": "ScienceFiction",
+            "slug": "science-fiction",
+            "description": "",
+            "active": true
+        }
+    },
+    {
+        "model": "main.producttag",
+        "fields": {
+            "name": "Opensource",
+            "slug": "opensource",
+            "description": "",
+            "active": true
+        }
+    },
+    {
+        "model": "main.producttag",
+        "fields": {
+            "name": "teamwork",
+            "slug": "teamwork",
+            "description": "",
+            "active": true
+        }
+    },
+    {
+        "model": "main.producttag",
+        "fields": {
+            "name": "Finance",
+            "slug": "finance",
+            "description": "",
+            "active": true
+        }
+    }
+]
